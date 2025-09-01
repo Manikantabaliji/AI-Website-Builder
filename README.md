@@ -168,14 +168,3 @@ engineering_team/
 
 ---
 
-## 🔮 Future Improvements
-
-* 🌐 One-click website deployment to cloud hosting.
-* 🎨 AI-powered design customization.
-* 📊 Analytics integration.
-* 🧠 Support for multiple LLM backends.
-
-
-
-👉 Do you want me to also **include step-by-step screenshots / diagrams (architecture + workflow)** in the README (I can generate them), or just keep it text-only?
-```
